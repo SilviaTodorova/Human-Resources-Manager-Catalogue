@@ -55,7 +55,7 @@
 <!--===============================Board of directors=================================-->
 		<fo:page-sequence master-reference="page">
 			<fo:static-content flow-name="xsl-region-after">
-				<fo:block background-color="#F5B041" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
+				<fo:block background-color="#F16625" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
 			</fo:static-content>
 			<fo:flow flow-name="xsl-region-body">
 				<fo:block-container position ="absolute">
@@ -92,7 +92,7 @@
 <!--===============================Chief Officer & Presidents =================================-->
 		<fo:page-sequence master-reference="page">
 			<fo:static-content flow-name="xsl-region-after">
-					<fo:block background-color="#F5B041" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
+					<fo:block background-color="#F16625" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
 			</fo:static-content>
 			<fo:flow flow-name="xsl-region-body">
 				<fo:block-container position ="absolute">
@@ -140,7 +140,7 @@
 
 <fo:page-sequence master-reference="page">
 	<fo:static-content flow-name="xsl-region-after">
-		<fo:block background-color="#F5B041" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
+		<fo:block background-color="#F16625" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
 	</fo:static-content>
 			
 			<fo:flow flow-name="xsl-region-body">
@@ -223,7 +223,7 @@
 
 <fo:page-sequence master-reference="page">
 	<fo:static-content flow-name="xsl-region-after">
-		<fo:block background-color="#F5B041" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
+		<fo:block background-color="#F16625" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
 	</fo:static-content>
 			<fo:flow flow-name="xsl-region-body">
 				<fo:block position ="absolute">
@@ -241,7 +241,7 @@
 <fo:page-sequence master-reference="page">
 
 			<fo:static-content flow-name="xsl-region-after">
-					<fo:block background-color="#F5B041" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
+					<fo:block background-color="#F16625" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
 			</fo:static-content>
 			
 			<fo:flow flow-name="xsl-region-body">
@@ -292,7 +292,7 @@
 <fo:page-sequence master-reference="page">
 
 			<fo:static-content flow-name="xsl-region-after">
-					<fo:block background-color="#F5B041" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
+					<fo:block background-color="#F16625" color="#FDFEFE" padding="1mm" font-weight="bold" font-size="13pt" >Gaming Fox</fo:block>
 			</fo:static-content>
 			
 			<fo:flow flow-name="xsl-region-body">
